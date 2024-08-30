@@ -50,4 +50,6 @@ If an invalid location is searched then the following screen is displayed:
 This is similar to the Weather App where a red error message appears under the search bar.
 
 ## Project Details
-This project taught me a lot about how to create efficient Python GUIs as well as improving my data collection and analysing skills. Both programs also fulfill their purposes as accurate, easy-to-use weather apps.
+This project taught me a lot about how to create efficient Python GUIs as well as improving my data collection and analysing skills. I also improved my graphic design skills as I created the logo and all of the icons.
+
+Both programs fulfill their purposes as accurate, easy-to-use weather apps.
